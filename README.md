@@ -1,5 +1,5 @@
 # Searching-BinarySearch
-The child repo: Searching-BinarySearch, consists of solutions to all the Searching-BinarySearch-related problem-solving questions solved from various coding platforms. It is one of the many child repos of the root repo: [masterDSA](https://github.com/Sreya-Ravi/masterDSA). 
+The child repo: Searching-BinarySearch, consists of solutions to all the BinarySearch-related problem-solving questions solved from various coding platforms. It is one of the many child repos of the root repo: [masterDSA](https://github.com/Sreya-Ravi/masterDSA). 
 
 <br/>
 
